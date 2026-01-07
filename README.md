@@ -8,7 +8,7 @@ Je suis Diego Aparicio, développeur passionné par le développement de jeux et
 
 **Stats GitHub**
 
-![Langages les plus utilisés](https://github-readme-stats-sandy-two-30.vercel.app/api/top-langs/?username=D-l-E-G-O&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+![Langages les plus utilisés](https://github-readme-stats-sandy-two-30.vercel.app/api/top-langs/?username=D-l-E-G-O&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Langages&#32;les&#32;plus&#32;utilisés)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 
